@@ -1,2 +1,2 @@
 #!/bin/bash
-KEY=$printenv:"some other value"
+$printenv
