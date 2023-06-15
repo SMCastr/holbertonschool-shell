@@ -1,2 +1,2 @@
 #!/bin/bash
-$env VAR1="value"
+$env VAR1=$PATH"value"
